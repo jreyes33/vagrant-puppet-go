@@ -1,4 +1,5 @@
 title: Vagrant, Puppet y Go
+theme: jdan/cleaver-retro
 author:
   name: Sebas, Jonathan
 
